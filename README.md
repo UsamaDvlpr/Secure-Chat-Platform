@@ -1,4 +1,4 @@
-# Project Name
+# Secure Chat Platform
 
 "A secure chat platform ensuring private, encrypted communication. Built for messaging and file sharing with end-to-end encryption."
 ![image](https://github.com/user-attachments/assets/656b827e-49ad-4b24-940d-970e1cfa67b8)
